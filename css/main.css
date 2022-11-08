@@ -1,4 +1,13 @@
 /* Place CSS styles here */
 body {
+    color: blue;
     font-family: 'Rock Salt', cursive;
+    background:
+linear-gradient(
+    rgba (0,0,0,0.70),
+    rgba (0,0,0,0.70)
+),
+url(../img/Wangechi\ Mutu\ 3.jpeg);
+
+background-size: cover;
 }
